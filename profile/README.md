@@ -1,10 +1,11 @@
 ## Olá 👋
 
+### Somos a Digitaliza Tecnologia
+Esta organização é destinada aos projetos de software desenvolvidos pela equipe de desenvolvimento da [Digitaliza Tecnologia](https://github.com/digitaliza).
 
-** Aqui estão algumas ideias para você começar: **
+### Membros da equipe Devs Digi
 
-🙋‍♀️ Uma breve introdução - do que se trata a sua organização?
-🌈 Diretrizes de contribuição - como a comunidade pode se envolver?
-👩‍💻 Recursos úteis - onde a comunidade pode encontrar seus documentos? Há mais alguma coisa que a comunidade deva saber?
-🍿 Curiosidades - o que sua equipe come no café da manhã?
-🧙 Lembre-se de que você pode fazer coisas poderosas com o poder do [Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Ramon](https://github.com/MatheusRamalho)
+- [Matheus](https://github.com/MatheusRamalho)
+- [Geison](https://github.com/MatheusRamalho)
+- [Wendel](https://github.com/MatheusRamalho)
