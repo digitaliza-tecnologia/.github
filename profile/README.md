@@ -9,5 +9,3 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
 - [Matheus](https://github.com/MatheusRamalho)
 - [Geison](https://github.com/geisonmalta)
 - [Wendel](https://github.com/wendellunny)
-
-[![Ramon Pêgo](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://github.com/ramonpego)
