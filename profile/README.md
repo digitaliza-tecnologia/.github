@@ -1,12 +1,12 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
 
-**Here are some ideas to get you started:**
+** Aqui estão algumas ideias para você começar: **
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
+🙋‍♀️ Uma breve introdução - do que se trata a sua organização?
+🌈 Diretrizes de contribuição - como a comunidade pode se envolver?
+👩‍💻 Recursos úteis - onde a comunidade pode encontrar seus documentos? Há mais alguma coisa que a comunidade deva saber?
+🍿 Curiosidades - o que sua equipe come no café da manhã?
+🧙 Lembre-se de que você pode fazer coisas poderosas com o poder do [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
