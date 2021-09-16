@@ -22,4 +22,7 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
     <img alt="Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
         <img alt="Node JS" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
         <img alt="Electron" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+        <img alt="MySQL" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img alt="git" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/git-original.svg">
+    <img alt="gitHub" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/github-original.svg">
 </div>
