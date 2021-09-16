@@ -5,7 +5,7 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
 
 ### Membros da equipe Devs Digi
 
-- [Ramon](https://github.com/MatheusRamalho)
+- [Ramon](https://github.com/ramonpego)
 - [Matheus](https://github.com/MatheusRamalho)
-- [Geison](https://github.com/MatheusRamalho)
-- [Wendel](https://github.com/MatheusRamalho)
+- [Geison](https://github.com/geisonmalta)
+- [Wendel](https://github.com/wendellunny)
