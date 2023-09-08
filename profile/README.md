@@ -9,7 +9,8 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
 - [Matheus Ramalho](https://github.com/MatheusRamalho)
 - [Geison Malta](https://github.com/geisonmalta)
 - [Wendel Lunny](https://github.com/wendellunny)
-
+- [Raul Duque](https://github.com/RaulDuque)
+  
 ### Skills
 
 <div style="display: inline_block; margin: 1rem 0;"><br/>
