@@ -18,7 +18,7 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
     <img alt="JavaScript" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="React JS" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img alt="TypeScript" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img alt="Laravel" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+    <img alt="Laravel" width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img alt="Node JS" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img alt="Electron" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     <img alt="MySQL" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
