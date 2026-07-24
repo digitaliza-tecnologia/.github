@@ -23,5 +23,5 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
     <img alt="Electron" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     <img alt="MySQL" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img alt="git" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img alt="gitHub" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img alt="gitHub" width="40" height="30" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">          
 </div>
