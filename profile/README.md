@@ -5,7 +5,8 @@ Esta organização é destinada aos projetos de software desenvolvidos pela equi
 
 ### Membros da equipe Devs Digi
 
-- [Geison Malta](https://github.com/geisonmalta)
+- [filipe Lemes](https://github.com/MomoiroAkachan)
+- [Renato Campos(estagiario 2.0)](https://github.com/RenatoCampos132)
 - [Wendel Lunny](https://github.com/wendellunny)
 - [Raul Duque](https://github.com/RaulDuque)
   
